@@ -30,8 +30,8 @@ My Solution: I designed and developed a React-based platform that automates this
 Check out the repository for a live demo and more details!
 
 Connect with Me
-LinkedIn: https://www.linkedin.com/in/manverdhan-sharma/
+LinkedIn: https://www.linkedin.com/in/manverdhan-sharma
 
-Email: manverdhan.sharma2023@vitstudent.ac.in
+Email: manverdhansharma@gmail.com
 
 Thanks for visiting my profile! Let's build something great together.
