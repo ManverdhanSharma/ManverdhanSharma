@@ -1,16 +1,37 @@
 ## Hi there 👋
+Hi, I'm Manverdhan Sharma 👋
 
-<!--
-**ManverdhanSharma/ManverdhanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a passionate and driven B.Tech student at Vellore Institute of Technology, specializing in Computer Science with a focus on AI & ML. I thrive on building innovative and impactful projects that solve real-world problems. My goal is to leverage my skills in AI/ML, Data Science, and Web Development to contribute to a forward-thinking team.
 
-Here are some ideas to get you started:
+I am actively seeking a software development internship to apply my technical skills and gain professional experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Core Skills
+Here are some of the technologies I'm most comfortable with and enjoy working on:
+
+Programming Languages & Core Concepts
+Python, JavaScript, Java, C++, Data Structures, Algorithms
+
+Web Development & Databases
+HTML5, CSS3, React, MySQL, MongoDB
+
+AI & Machine Learning
+TensorFlow, scikit-learn, OpenAI API
+
+Tools & Cloud
+Git, GitHub
+
+Featured Project
+Picnic Quest - Automated Picnic & Date Planner
+The Challenge: Planning a date or an outing with friends can be a hassle, with countless options for locations, activities, and budget constraints.
+
+My Solution: I designed and developed a React-based platform that automates this process. By integrating various APIs, Picnic Quest auto-generates personalized outing plans, complete with event suggestions, hotel recommendations, and a tailored budget breakdown. This project showcases my skills in full-stack development, API integration, and creating a user-friendly interface.
+
+Check out the repository for a live demo and more details!
+
+Connect with Me
+LinkedIn: https://www.linkedin.com/in/manverdhan-sharma/
+
+Email: manverdhan.sharma2023@vitstudent.ac.in
+
+Thanks for visiting my profile! Let's build something great together.
