@@ -2,7 +2,7 @@
 Hi, I'm Manverdhan Sharma 👋
 
 About Me
-I'm a passionate and driven B.Tech student at Vellore Institute of Technology, specializing in Computer Science with a focus on AI & ML. I thrive on building innovative and impactful projects that solve real-world problems. My goal is to leverage my skills in AI/ML, Data Science, and Web Development to contribute to a forward-thinking team.
+I'm a passionate and driven B.Tech Third year student at Vellore Institute of Technology, specializing in Computer Science with a focus on AI & ML. I thrive on building innovative and impactful projects that solve real-world problems. My goal is to leverage my skills in AI/ML, Data Science, and Web Development to contribute to a forward-thinking team.
 
 My Core Skills
 Here are some of the technologies I'm most comfortable with and enjoy working on:
